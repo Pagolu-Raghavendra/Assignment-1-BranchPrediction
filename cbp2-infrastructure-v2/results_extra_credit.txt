@@ -1,4 +1,4 @@
-]633;E;for t in $(find traces -name '*.trace.bz2' | sort);2af47a5e-f7eb-46fc-b85c-9a4eb0f6ed7d]633;Ctraces/164.gzip/gzip.trace.bz2           Direction: 11.752 MPKI; Target: 21.098 MPKI
+traces/164.gzip/gzip.trace.bz2           Direction: 11.752 MPKI; Target: 21.098 MPKI
 traces/175.vpr/vpr.trace.bz2             Direction: 13.264 MPKI; Target: 24.852 MPKI
 traces/176.gcc/gcc.trace.bz2             Direction: 9.207 MPKI; Target: 20.095 MPKI
 traces/181.mcf/mcf.trace.bz2             Direction: 15.680 MPKI; Target: 39.935 MPKI
