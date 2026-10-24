@@ -10,7 +10,7 @@ public:
 	void direction_prediction (bool b) { _direction_prediction = b; }
 
 	unsigned int target_prediction () { return _target_prediction; }
-	bool target_prediction (unsigned int t) { _target_prediction = t; }
+	void target_prediction (unsigned int t) { _target_prediction = t; }
 
 	branch_update (void) : 
 		_direction_prediction(false), _target_prediction(0) {}
